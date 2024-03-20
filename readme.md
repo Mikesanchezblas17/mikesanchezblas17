@@ -2,4 +2,7 @@
 ## About me 
 escribir sobre nosotros...
 
-lalalalla
+# Desarollo
+- HTML
+- CSS
+- JS    
