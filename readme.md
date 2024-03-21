@@ -6,3 +6,9 @@ escribir sobre nosotros...
 - HTML
 - CSS
 - JS    
+
+## Languages 
+
+- Spanish
+- English
+- Portuguese
