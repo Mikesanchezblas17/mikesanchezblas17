@@ -2,6 +2,9 @@
 ## About me 
 escribir sobre nosotros...
 
+## Skills
+-Coaching
+
 ## Hobbies
 Dancing
 Working to friday
@@ -14,3 +17,6 @@ Working to friday
 ## Hobbies
 Dancing
 Working to friday
+
+## Skills
+-Coaching
